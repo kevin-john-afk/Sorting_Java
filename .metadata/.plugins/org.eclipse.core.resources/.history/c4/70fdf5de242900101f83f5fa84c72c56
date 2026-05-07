@@ -1,0 +1,15 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+	
+	String name = "bro";
+	boolean result = name.equalsIgnoreCase("you");
+	System.out.print(result);
+	 
+	}
+	}

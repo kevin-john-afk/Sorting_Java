@@ -1,0 +1,13 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+String name = "nigga";
+boolean answer = name.isEmpty();
+System.out.print(answer);
+	}
+	}

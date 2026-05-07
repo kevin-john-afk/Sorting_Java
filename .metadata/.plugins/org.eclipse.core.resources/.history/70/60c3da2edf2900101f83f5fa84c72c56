@@ -1,0 +1,22 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+
+String name = "david";
+if(name.contentEquals("david")) {
+	int num = 5;
+	System.out.println(name);
+	System.out.print(num);
+}
+
+
+	}
+
+}
+
+	

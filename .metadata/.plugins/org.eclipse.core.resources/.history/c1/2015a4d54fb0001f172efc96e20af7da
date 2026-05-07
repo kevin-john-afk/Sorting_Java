@@ -1,0 +1,17 @@
+package mikyla;
+
+public class mikyla {
+
+	public static void main(String[] args) {
+		
+		int N =3;
+		for( int x = 1; x<= N; x++) {
+			for(int j = x; j<=x; j++) {
+				System.out.println(j + "");
+			}
+			System.out.println("");
+		}
+		
+	}
+
+}

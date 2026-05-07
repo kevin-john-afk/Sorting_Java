@@ -1,0 +1,22 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+		String n = "kevin";
+print("hello world "+ n);
+add(5,10);
+}
+static void print(String word) {
+	System.out.println(word);
+}
+static void add(int num1, int num2) {
+	System.out.print(num1 + num2);
+}
+
+}
+
+	

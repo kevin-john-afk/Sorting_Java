@@ -1,0 +1,15 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+	
+		String name = "john";
+		int result = name.indexOf("h");
+		System.out.print(result);
+	 
+	}
+	}

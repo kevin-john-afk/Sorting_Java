@@ -1,0 +1,14 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+		
+		String java = "janiene mikyla caneso";
+		String s = java.substring(1);
+		System.out.println(s);
+	}
+	}

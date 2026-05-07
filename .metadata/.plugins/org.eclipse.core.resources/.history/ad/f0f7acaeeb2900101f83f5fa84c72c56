@@ -1,0 +1,22 @@
+package Trapezoid;
+
+import java.util.Scanner;
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		System.out.print("Enter number: ");
+		int num1 = s.nextInt();
+		
+		System.out.print("Enter number: ");
+		int num2 = s.nextInt();
+}
+	static int add(int num1, int num2) {
+		return num1+num2;
+	}
+}
+
+
+	

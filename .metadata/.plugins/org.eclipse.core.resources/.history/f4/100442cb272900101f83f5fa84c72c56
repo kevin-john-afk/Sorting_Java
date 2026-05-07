@@ -1,0 +1,14 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+String name = "nigga";
+int answer = name.length();
+System.out.println(answer);
+	 
+	}
+	}

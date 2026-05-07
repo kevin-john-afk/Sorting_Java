@@ -1,0 +1,17 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+	
+		String name = "Kevin";
+		//boolean  result = name.equalsIgnoreCase("kevi ");
+		//int result =  name.length();	 
+		char result = name.charAt(0);
+		System.out.print(result);
+	 
+	}
+	}

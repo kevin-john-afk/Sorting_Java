@@ -1,0 +1,17 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+greet("kevin", 19,170.00);
+
+	}
+static void greet(String name, int age, double height) {
+	System.out.print("heloo my name is "+ name +" and im "+ age +" years old, and my height is " + height);
+}
+}
+
+	

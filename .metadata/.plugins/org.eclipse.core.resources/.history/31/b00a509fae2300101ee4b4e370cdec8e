@@ -1,0 +1,34 @@
+package Trapezoid;
+
+import java.util.Scanner;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+		
+		 Scanner num = new Scanner(System.in);
+	        int evenCount = 0;
+	        int oddCount = 0;
+	        int count = 0;
+
+	        System.out.println("input 10 integers:");
+
+	        while (count < 10) {
+	            System.out.print("input integer " + (count + 1) + ": ");
+	            int number = num.nextInt();
+
+	            if (number % 2 == 0) {
+	                evenCount++;
+	            } else {
+	                oddCount++;
+	            }
+
+	            count++;
+	        }
+
+	        System.out.println("even integers: " + evenCount);
+	        System.out.println("odd integers: " + oddCount);
+
+	        num.close();
+	    }
+	}

@@ -1,0 +1,23 @@
+package Trapezoid;
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+		int sum  = add (1,2);
+		System.out.print(sum);
+}
+	
+	static int add(int num1, int num2) {
+		return num1+num2;
+	}
+	static int multiply(int num1, int num2) {
+		return num1+num2;
+	}
+	
+	}
+
+
+
+	

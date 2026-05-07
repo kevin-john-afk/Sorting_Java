@@ -1,0 +1,21 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+
+String greetings = "what's up";
+
+boolean result = greetings.equalsIgnoreCase("what's up");
+System.out.print(greetings);
+
+
+	}
+static void sayHello(){
+	System.out.println("Hello");
+}
+
+	}

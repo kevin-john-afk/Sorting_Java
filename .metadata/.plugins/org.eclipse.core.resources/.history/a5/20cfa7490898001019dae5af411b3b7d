@@ -1,0 +1,32 @@
+package tutorials;
+import java.util.Scanner;
+
+public class Tutorials {
+	public static void main(String[] args) {
+		
+		
+		        
+		        //Scanner sc = new Scanner(System.in);
+		        //String[] inputs = new String[5]; // store 5 inputs
+		        
+		        //for (int i = 0; i < 5; i++) {
+		            //System.out.print("Enter: ");
+		            //inputs[i] = sc.nextLine(); // save each input
+		       // }
+		        
+		        //System.out.print("All inputs: ");
+		       // for (int i = 0; i < inputs.length; i++) {
+		           // System.out.print(inputs[i] + " ");
+		       // }
+		Scanner input = new Scanner(System.in);
+
+       
+		
+		int[] numArr = new int[size];
+       
+            System.out.print("Enter number : ");
+            numArr[0] = input.nextInt();
+        }
+		    }
+		
+

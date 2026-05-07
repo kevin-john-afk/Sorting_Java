@@ -1,0 +1,15 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) 
+	{
+		String java= "I love you";
+		String s =java.substring(7);
+		System.out.println(s);
+
+	    }
+	}

@@ -1,0 +1,24 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+		String i = "where u from?";
+kev("sup nigga, "+i);
+
+add(1,1);
+	}
+	static void kev(String word) {
+		System.out.println(word);
+	}
+	static void add(int num1,int num2) {
+	
+		System.out.print("im from "+ num1 + num2);
+	}
+
+}
+
+	

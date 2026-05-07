@@ -1,0 +1,26 @@
+package Trapezoid;
+
+
+import java.util.Stack;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+		Stack<String> stack = new Stack<String>();
+	
+		stack.push("kevin");
+		
+		stack.push("kirby");
+		stack.push("kyla");
+		stack.push("kyle");
+		stack.push("kenneth");
+		
+		String mfavegame = stack.pop();
+	  System.out.print(stack);
+		
+		
+		
+		
+		
+	    }
+	}

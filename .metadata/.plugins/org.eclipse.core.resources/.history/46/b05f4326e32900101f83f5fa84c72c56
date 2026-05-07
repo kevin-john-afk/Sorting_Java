@@ -1,0 +1,27 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+//global viriables
+	static String section = "A";
+	static int num = 100;
+	public static void main(String[] args) {
+saySection();
+sayNumber();
+	}
+	static void saySection() {
+		if(section.equalsIgnoreCase("A")) {
+			System.out.println(section);
+		}
+	
+	}
+	static void sayNumber() {
+		System.out.print(num);
+	}
+
+
+}
+
+	

@@ -1,0 +1,18 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+		String i = "where u from?";
+kev("sup nigga, "+i);
+	}
+	static void kev(String word) {
+		System.out.println(word);
+	}
+
+}
+
+	

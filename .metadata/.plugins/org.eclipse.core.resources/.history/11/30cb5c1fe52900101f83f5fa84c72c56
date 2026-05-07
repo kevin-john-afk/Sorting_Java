@@ -1,0 +1,22 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+static String name = "david";
+static String age = "10";
+	public static void main(String[] args) {
+sayName();
+sayAge();
+	}
+static void sayName() {
+	System.out.println(name);
+}
+static void sayAge() {
+	System.out.println(age);
+}
+
+}
+
+	

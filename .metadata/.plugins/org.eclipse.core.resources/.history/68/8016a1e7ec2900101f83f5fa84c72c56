@@ -1,0 +1,28 @@
+package Trapezoid;
+
+import java.lang.String;
+
+public class Trapezoid {
+
+	public static void main(String[] args) {
+		int sum  = devide (7,2);
+		System.out.print(sum);
+}
+	
+	static int add(int num1, int num2) {
+		return num1+num2;
+	}
+	static int muliply(int num1, int num2) {
+		return num1*num2;
+	}
+	static int sub(int num1, int num2) {
+		return num1-num2;
+	}
+	static int devide(int num1, int num2) {
+		return num1/num2;
+	}
+	
+}
+
+
+	

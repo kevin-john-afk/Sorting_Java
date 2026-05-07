@@ -1,0 +1,19 @@
+package Trapezoid;
+
+
+import java.lang.String;
+
+public class Trapezoid {
+//global viriables
+	static String section = "A";
+	public static void main(String[] args) {
+
+	}
+	static void saySection() {
+		System.out.println(section);
+	}
+
+
+}
+
+	

@@ -1,0 +1,14 @@
+package tutorials;
+import java.util.Scanner;
+public class Tutorials {
+
+	public static void main(String[] args) {
+		Scanner x = new Scanner (System.in);
+		
+
+		String[] names= {"kevin","john","tapel","pataray"};
+		names [0]="jm";
+		System.out.print(names[0]);
+	}
+ 
+}
